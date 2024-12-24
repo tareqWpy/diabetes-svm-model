@@ -29,7 +29,7 @@ This project implements a Support Vector Machine (SVM) model to predict the pres
 2.  Create a virtual environment (optional but recommended):
 
     ```bash
-    bashCopypython -m venv venv
+    python -m venv venv
     ```
 
 3.  Activate the virtual environment:

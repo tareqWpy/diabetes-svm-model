@@ -76,6 +76,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, feel free to contact the project maintainer:
+For any questions or inquiries, feel free to contact the project maintainer:<br>
 Email: taregh.khaleghi1381@gmail.com<br>
 GitHub: [tareqWpy](https://github.com/tareqWpy)<br>

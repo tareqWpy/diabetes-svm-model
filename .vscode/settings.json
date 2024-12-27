@@ -1,11 +1,25 @@
 {
     "cSpell.words": [
+        "cmap",
+        "colorbar",
+        "coolwarm",
+        "edgecolor",
         "farame",
+        "figsize",
+        "fontsize",
+        "iloc",
+        "imshow",
         "joblib",
         "matplotlib",
         "numpy",
         "prec",
         "reca",
-        "scikit"
+        "rwidth",
+        "scikit",
+        "viridis",
+        "xlabel",
+        "xticks",
+        "ylabel",
+        "yticks"
     ]
 }
